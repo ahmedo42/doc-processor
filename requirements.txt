@@ -2,3 +2,6 @@ django
 djangorestframework
 markdown
 django-filter
+isort
+black
+pre-commit
