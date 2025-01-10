@@ -2,6 +2,8 @@ django
 djangorestframework
 markdown
 django-filter
-isort
 black
 pre-commit
+Pillow
+PyPDF2
+pdf2image
